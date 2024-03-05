@@ -24,8 +24,8 @@ Destek sunucusundan( https://discord.gg/ ) kedicikecem ile iletişime geçebilir
 
 Verilerinizi nasıl kaldırabilirsiniz?
 
-Destek sunucusundan( https://discord.gg/ ) müzisyen botun geliştricisi olan Crew.dev ile ilgili bilgileri doğrudan kişisel bilgiler kaldırabilirsiniz. Sunucu sistemlerinde ise botu sunucudan atarak kaldırabilirsiniz.
+Destek sunucusundan( https://discord.gg/ ) müzisyen botun geliştricisi olan kedicikecem ile ilgili bilgileri doğrudan kişisel bilgiler kaldırabilirsiniz. Sunucu sistemlerinde ise botu sunucudan atarak kaldırabilirsiniz.
 
 Ancak kara listedeki değişiklikler ancak iyileşmeyi uygun görürse ortadan kaldırır.
 
-Not: Kullanıcılarımıza haber vermeden, değiştirme hakkını saklı tutarz. Bu politika en son 16 şubat 2023 tarihinde güncellenmiştir.
+Not: Kullanıcılarımıza haber vermeden, değiştirme hakkını saklı tutarz. Bu politika en son 16 şubat 2024 tarihinde güncellenmiştir.
